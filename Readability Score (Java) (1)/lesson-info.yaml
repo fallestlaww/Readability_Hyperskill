@@ -1,0 +1,8 @@
+type: framework
+custom_name: Readability Score (Java)
+content:
+  - Simplest estimation
+  - Words and sentences
+  - Score
+  - More parameters
+current_task: 3

@@ -1,0 +1,27 @@
+type: edu
+custom_name: Score!
+files:
+  - name: src/readability/Main.java
+    visible: true
+    learner_created: false
+  - name: test/ReadabilityTest.java
+    visible: false
+    learner_created: false
+  - name: src/readability/FilePrinter.java
+    visible: true
+    learner_created: true
+  - name: src/readability/ARI.java
+    visible: true
+    learner_created: true
+  - name: src/readability/CalculateWSCV.java
+    visible: true
+    learner_created: true
+  - name: src/readability/CalculateWSC.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5264#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 01 Oct 2024 12:24:42 UTC"
+record: 3

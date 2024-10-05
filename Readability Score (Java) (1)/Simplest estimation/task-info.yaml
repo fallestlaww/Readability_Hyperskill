@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/readability/Main.java
+    visible: true
+    learner_created: false
+  - name: test/ReadabilityTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5262#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 30 Sep 2024 13:31:48 UTC"
+record: 1

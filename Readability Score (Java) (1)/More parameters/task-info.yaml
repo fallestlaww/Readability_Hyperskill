@@ -1,0 +1,39 @@
+type: edu
+files:
+  - name: src/readability/Main.java
+    visible: true
+    learner_created: false
+  - name: test/ReadabilityTest.java
+    visible: false
+    learner_created: false
+  - name: src/readability/indexes/ARI.java
+    visible: true
+    learner_created: true
+  - name: src/readability/indexes/methods/CalculateWSCS.java
+    visible: true
+    learner_created: true
+  - name: src/readability/indexes/methods/FilePrinter.java
+    visible: true
+    learner_created: true
+  - name: src/readability/indexes/FKRT.java
+    visible: true
+    learner_created: true
+  - name: src/readability/indexes/SMOG.java
+    visible: true
+    learner_created: true
+  - name: src/readability/indexes/CLI.java
+    visible: true
+    learner_created: true
+  - name: src/readability/indexes/methods/Menu.java
+    visible: true
+    learner_created: true
+  - name: src/readability/interfaces/Readability.java
+    visible: true
+    learner_created: true
+feedback_link: https://hyperskill.org/learn/step/5265#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
+    to continue learning.
+  time: "Thu, 03 Oct 2024 21:37:22 UTC"
+record: 4

@@ -15,4 +15,4 @@ As for me, there is no point in adding more code, but if you want - you have eve
 
 My telegram: [@keepmewhoiam](https://t.me/keepmewhoiam)  
 Link for this repository: https://github.com/fallestlaww/Readability_Hyperskill.git
-My LinkedIn: [click](https://www.linkedin.com/in/pavlo-svitenko-a167152bb/)
+My telegram: [click](https://www.linkedin.com/in/pavlo-svitenko-a167152bb/)  

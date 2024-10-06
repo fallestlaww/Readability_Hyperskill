@@ -8,8 +8,8 @@ The logic of the code is not adapted, modified or refined. This code is responsi
 
 ## Code explanation
 This repo includes all the project files, along with Gradle files and tests written by the Hyperskill team, so that readers of the repository do not get confused by the files when adding their results to their repositories  
-The code I wrote for the task is in the direction on the screen below:
-![](https://imgur.com/a/Vo1i6KE)
+The code I wrote for the task is in the direction [here](https://github.com/fallestlaww/Readability_Hyperskill/tree/main/Readability%20Score%20(Java)%20(1)/task/src/readability)  
+Writed tests by Hyperskill, if you need this, - [here](https://github.com/fallestlaww/Readability_Hyperskill/tree/main/Readability%20Score%20(Java)%20(1)/task/test)  
 All explanation of this code provided in the code comments for each function and each class  
 
 ## Ending

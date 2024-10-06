@@ -14,7 +14,5 @@ All explanation of this code provided in the code comments for each function and
 As for me, there is no point in adding more code, but if you want - you have every right to do so, if you find bugs - let me know, I will be happy to fix everything
 
 My telegram: [@keepmewhoiam](https://t.me/keepmewhoiam) 
-
 My LinkedIn: [click](https://www.linkedin.com/in/pavlo-svitenko-a167152bb/)
-
 Link for this repository: https://github.com/fallestlaww/Readability_Hyperskill.git

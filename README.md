@@ -7,7 +7,10 @@ Idea and tasks for this project I took [here ](https://hyperskill.org/study-plan
 The logic of the code is not adapted, modified or refined. This code is responsible for exactly those tasks that were set by the [Hyperskill](https://hyperskill.org/study-plan) site, where I got the idea from
 
 ## Code explanation
-All explanation of this code provided in the code comments for each function and each class
+This repo includes all the project files, along with Gradle files and tests written by the Hyperskill team, so that readers of the repository do not get confused by the files when adding their results to their repositories  
+The code I wrote for the task is in the direction on the screen below:
+![](https://imgur.com/a/Vo1i6KE)
+All explanation of this code provided in the code comments for each function and each class  
 
 ## Ending
 

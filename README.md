@@ -1,10 +1,10 @@
 # Readability Score from Hyperskill
 
 This project is created to help those beginners who chose the "Readability Score" project for themselves and want to understand the logic of the code for the project.  
-Idea and tasks for this project I took [here](https://hyperskill.org/study-plan).    
+Idea and tasks for this project I took [here](https://hyperskill.org/projects/39).    
 
 ## Attention!
-The logic of the code is not adapted, modified or refined. This code is responsible for exactly those tasks that were set by the [Hyperskill](https://hyperskill.org/study-plan) site, where I got the idea from.
+The logic of the code is not adapted, modified or refined. This code is responsible for exactly those tasks that were set by the [Hyperskill](https://hyperskill.org/projects/39) site, where I got the idea from.
 
 ## Code explanation
 This repo includes all the project files, along with Gradle files and tests written by the Hyperskill team, so that readers of the repository do not get confused by the files when adding their results to their repositories.    
